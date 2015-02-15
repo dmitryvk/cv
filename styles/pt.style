@@ -1,0 +1,17 @@
+{
+    "embeddedFonts": [
+        [
+            "PTF55F.ttf", 
+            "PTS55F.ttf", 
+            "PTS56F.ttf", 
+            "PTS56F.ttf"
+        ]
+    ], 
+    "fontsAlias": {                                                                                                                                 
+        "stdBold": "PTS55F", 
+        "stdBoldItalic": "PTS56F", 
+        "stdFont": "PTF55F", 
+        "stdItalic": "PTS56F", 
+        "stdMono": "PT Mono"
+    }
+}
