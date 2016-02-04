@@ -10,7 +10,7 @@ Dmitry Kalyanov
 General Information
 -------------------
 
-Dmitry Kalyanov, 27 years old
+Dmitry Kalyanov, 28 years old
 
 **Location**: Russia, Kazan; not ready for business trips
 
@@ -46,19 +46,42 @@ Work Experience
 2010-2011, 2012 - present; BARS Group, software developer
 .........................................................
 
-Technologies used: C#, JavaScript, Java, ASP.NET MVC, WCF, OpenSSL, NHibernate, ExtJS, PostgreSQL, Oracle, ANTLR.
+Technologies used: C#, JavaScript, Java, ASP.NET MVC, WCF, OpenSSL, NHibernate, ExtJS, PostgreSQL, Oracle, ANTLR, Mono, C.
 
-Developed database applications, internal libraries and development tools. Developed application development platforms.
+Responsibilities included:
 
-Developed tool for automated conversion of procedural Oracle PL/SQL code into PostgreSQL.
+* Web applications development
+* Architecting and developing platforms for application development
+* Internal tools development
+
+Some notable projects:
+
+* Oracle PL/SQL code translator into PostgreSQL PL/pgSQL language
+* Prototype of PostgreSQL extension to support parameterized anonymous code blocks
+* Porting large application from .Net to Mono (including rewriting missing native C libraries)
+* Several tools for git history manipulation
 
 2011-2012; Music Services, software developer
 .............................................
 
 Technologies used: Java, JavaScript, C, nginx, Jetty, JAX-RS, Android, Node.js, ExtJS, MongoDB, Elasticsearch, Jenkins, salt stack.
 
-Developed distributed data storage, developed backend services for web application and mobile applications.
-Developed web application and Android app. Administered and supported servers.
+Responsibilities included:
+
+* Development of backend
+
+  * Main application written in Java
+  * Data storage in MongoDB and Elasticsearch
+  * Distributed application 
+  
+* Development of browser-based front end (JavaScript, Java applets)
+* Systems administration
+
+Some notable projects:
+
+* Custom nginx modules
+* Custom data replication protocol
+* Patches to MHDDFS (FUSE filesystem written in C) 
 
 2007-2009; Infomed, software developer
 ......................................
@@ -83,10 +106,10 @@ Experience
 * Good knowledge of C, C++, C#, Java, JavaScript, SQL, Common Lisp, Octave, Bash. Also used and somewhat familiar with other languages (python, assembly, R, rust, go).
 * Familiar with several technology stacks:
   
-  * Microsoft .NET: Winforms, ADO.NET, ASP.NET, ASP.NET MVC, NHibernate, Castle
+  * Microsoft .NET: Winforms, ADO.NET, ASP.NET, ASP.NET MVC, NHibernate, Castle.Windsor
   * Java: JAX-RS, JDBC
   * Client-side web: HTML, CSS, JavaScript, ExtJS
-  * Linux: libc, pthreads, gtk, make, autotools, gdb
+  * Linux: libc, pthreads, gtk, make, autotools, gdb, strace, sysdig
   
 * Familiar with data storage technologies: PostgreSQL, Oracle, SQLite, MongoDB, Elasticsearch.
 
@@ -138,19 +161,20 @@ Experience
 Hobby projects
 --------------
 
-TFS-GIT Migration tool
+TFS to GIT Migration tool
   Developed code history migration tool from Microsoft TFS Version Control to Git. Technologies used: C#, Git, libgit2.
   
-Wacom Output Mapping Watcher
+`Wacom Output Mapping Watcher <https://github.com/dmitryvk/wacom-output-mapping-watcher>`_
+
   Small utility to enforce mapping of wacom tablet coordinates to X11 screens. Technologies used: rust, xcb.
 
-SBCL Win32 Threads
+`SBCL Win32 Threads <https://github.com/dmitryvk/sbcl-win32-threads>`_
   Implemented multithreading in Win32 version of SBCL Common Lisp compiler.
   Researched low-level details of Windows API, implemented threading and synchronization primitives (mutexes, condition variables,
   thread creation, thread-local storage). Integrated garbage collector and threading; modified compiler code generator; debugged and
   tested. Technologies used: cygwin, C, gcc, gdb, SBCL.
 
-cl-gtk2
+`cl-gtk2 <https://github.com/dmitryvk/cl-gtk2>`_
   Common Lisp bindings for Gtk GUI toolkit. Integrated different object systems (GObject object system and Common Lisp Object System),
   integrated memory management and thread synchronization. Technologies used: SBCL, Gtk+.
   
@@ -164,7 +188,7 @@ Porting of AOT (automatic text processing library) to linux
   Wrote new build system, rewrote platform-dependent parts of code. Wrote Common Lisp and Python bindings for AOT.
   Technologies used: autotools, make, C++, SWIG.
 
-Text editor for PDA
+`Text editor for PDA <http://lectures.sourceforge.net/>`_
   Developed text editor for PalmOS-based PDAs. Editor featured text formatting and insertion of images and formulas (with LaTeX notation).
   Technologies used: C++, FreeType.
 
