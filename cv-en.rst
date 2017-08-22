@@ -10,7 +10,7 @@ Dmitry Kalyanov
 General Information
 -------------------
 
-Dmitry Kalyanov
+Dmitry Kalyanov (Дмитрий Кальянов)
 
 **Location**: Russia, Kazan; not willing to relocate
 
