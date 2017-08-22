@@ -122,7 +122,7 @@ Experience
 * Linux: libc, pthreads, gtk, make, autotools, gdb/lldb, strace/sysdig/perf
 * Knowledge of data structures and algorithms
 * Multithreading (pthreads, Win32 threads, java threads, .NET threads) and async programming
-* Nnetwork programming (sockets, epoll, TCP)
+* Network programming (sockets, epoll, TCP)
 * Familiar with system and low-level programming: compilers, garbage collectors, databases.
 * Familiar with parsing (ANTLR, PEG, hand-coded LL parsers).
 * Familiar with software testing. Unit testing (NUnit/xUnit, JUnit/TestNG), load testing (JMeter); fuzzy testing of algorithms.
