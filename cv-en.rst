@@ -10,9 +10,9 @@ Dmitry Kalyanov
 General Information
 -------------------
 
-Dmitry Kalyanov, 28 years old
+Dmitry Kalyanov
 
-**Location**: Russia, Kazan; not ready for business trips
+**Location**: Russia, Kazan; not willing to relocate
 
 **Email**: Kalyanov.Dmitry@gmail.com
 
@@ -46,34 +46,39 @@ Work Experience
 2010-2011, 2012 - present; BARS Group, software developer
 .........................................................
 
-Technologies used: C#, JavaScript, Java, ASP.NET MVC, WCF, OpenSSL, NHibernate, ExtJS, PostgreSQL, Oracle, ANTLR, Mono, C.
+Relevant echnology experience in:
+.NET (.NET Framework, .NET Core, Mono, async, ASP.NET MVC, ASP.NET Core, WCF, NHibernate, Entity Framework Core),
+JavaScript (ExtJS),
+Java, 
+C,
+Parsing (ANTLR, peg.js),
+PostgreSQL,
+Oracle,
+nginx,
+TeamCity,
+Jenkins.
 
-Responsibilities included:
+Responsibilities include:
 
-* Web applications development
-* Architecting and developing platforms for application development
-* Internal tools development
+* Application architecture
+* Web application development (backend and frontend)
+* Internal tools and application platforms development
 
 Some notable projects:
 
 * Oracle PL/SQL code translator into PostgreSQL PL/pgSQL language
-* Prototype of PostgreSQL extension to support parameterized anonymous code blocks
-* Porting large application from .Net to Mono (including rewriting missing native C libraries)
-* Several tools for git history manipulation
+* Custom PostgreSQL extension
+* Porting large application from .Net/Windows to Mono/Linux
+* Automated migration from TFS Version Control to git (with custom-made tools)
 
 2011-2012; Music Services, software developer
 .............................................
 
-Technologies used: Java, JavaScript, C, nginx, Jetty, JAX-RS, Android, Node.js, ExtJS, MongoDB, Elasticsearch, Jenkins, salt stack.
+Relevant echnology experience in: Java, JavaScript, C, nginx, Jetty, JAX-RS, Android, Node.js, ExtJS, MongoDB, Elasticsearch, Jenkins, salt stack.
 
 Responsibilities included:
 
-* Development of backend
-
-  * Main application written in Java
-  * Data storage in MongoDB and Elasticsearch
-  * Distributed application 
-  
+* Backend development
 * Development of browser-based front end (JavaScript, Java applets)
 * Systems administration
 
@@ -81,12 +86,12 @@ Some notable projects:
 
 * Custom nginx modules
 * Custom data replication protocol
-* Patches to MHDDFS (FUSE filesystem written in C) 
+* Patches to MHDDFS (FUSE filesystem written in C)
 
 2007-2009; Infomed, software developer
 ......................................
 
-Technologies used: C#, Winforms, WPF, NHibernate, PostgreSQL, OpenGL.
+Relevant echnology experience in: C#, Winforms, WPF, NHibernate, PostgreSQL, OpenGL.
 
 Developed client-server image storage and processing system. Developed libraries for image analysis and DICOM-based
 interaction with 3rd-party systems. Developed prototype of automated medical image segmentation system.
@@ -94,7 +99,7 @@ interaction with 3rd-party systems. Developed prototype of automated medical ima
 2006-2007; RST, software developer
 ..................................
 
-Technologies used: C#, ASP.NET, NHibernate, Microsoft SQL Server.
+Relevant echnology experience in: C#, ASP.NET, NHibernate, Microsoft SQL Server.
 
 Developed web-based information system. Supported and maintained legacy code. Developed algorithms for data processing.
 
@@ -103,19 +108,17 @@ Developed web-based information system. Supported and maintained legacy code. De
 Experience
 ----------
 
-* Good knowledge of C, C++, C#, Java, JavaScript, SQL, Common Lisp, Octave, Bash. Also used and somewhat familiar with other languages (python, assembly, R, rust, go).
+* Good knowledge of C, C++, C#, Java, JavaScript, SQL, Common Lisp, Octave, Bash. Also familiar with other languages (python, assembly, R, rust, go).
 * Familiar with several technology stacks:
   
-  * Microsoft .NET: Winforms, ADO.NET, ASP.NET, ASP.NET MVC, NHibernate, Castle.Windsor
+  * Microsoft .NET: Winforms, ADO.NET, ASP.NET, ASP.NET MVC, NHibernate, Castle.Windsor, .NET Core, Entity Framework Core
   * Java: JAX-RS, JDBC
   * Client-side web: HTML, CSS, JavaScript, ExtJS
-  * Linux: libc, pthreads, gtk, make, autotools, gdb, strace, sysdig
+  * Linux: libc, pthreads, gtk, make, autotools, gdb/lldb, strace/sysdig/perf
   
-* Familiar with data storage technologies: PostgreSQL, Oracle, SQLite, MongoDB, Elasticsearch.
-
 * Knowledge of basic data structures and algorithms.
 
-* Have experience with multithreaded (pthreads, Win32 threads) and network programming (sockets).
+* Have experience with multithreaded (pthreads, Win32 threads) and network programming (sockets, epoll).
 
 * Familiar with system and low-level programming: compilers, garbage collectors, databases.
 
@@ -129,7 +132,7 @@ Experience
 
 * Databases: PostgreSQL, Oracle, SQLite, Microsoft SQL Server, MongoDB, Elasticsearch.
 
-* Familiar with machine learning. Tools: octave, R, pandas, scikit-learn.
+* Some familiarity with machine learning. Tools: octave, R, jupyter, pandas, scikit-learn.
 
 ..
   **Низкоуровневое и системное программирование**
@@ -184,7 +187,7 @@ Fact extraction system for information retrieval
   extraction algorithms.
   Technologies used: Common Lisp (SBCL), C++, SQLite.
 
-Porting of AOT (automatic text processing library) to linux
+Porting of AOT (automatic text processing library) to Linux
   Wrote new build system, rewrote platform-dependent parts of code. Wrote Common Lisp and Python bindings for AOT.
   Technologies used: autotools, make, C++, SWIG.
 
@@ -195,71 +198,3 @@ Porting of AOT (automatic text processing library) to linux
 Ported several libraries to Palm OS and Windows Mobile.
   Ported freetype, sqlite to Palm OS. Ported djvulibre library to Windows Mobile. Technologies used: C++, Windows Mobile.
   
-..
-  Experience
-  ----------
-  Current: Developer, scienceformat
-  .................................
-  `scienceformat`_ is a manuscript preparation and bibliography management service for Science. 
-
-  Mar - May 2014: Web developer, Teamwork.com
-  ...........................................
-  Implemented the first version of a feature for `importing tasks and task lists from Microsoft Excel <http://www.teamwork.com/blog/excel-import-option-tasks/>`_ files.
-
-  2007 - 2012: Research Program Manager
-  .....................................
-  Mark Achtman Group, Environmental Research Institute, UCC, Cork, Ireland.
-
-  Developed an API in Python for allowing public access to data. Designed administration interfaces in HTML for updating tables and adding/removing columns.
-
-  Developed graphical user interfaces in Python and Qt for visualizing and managing data in LIMS systems and `BioNumerics <http://www.applied-maths.com/bionumerics>`_.
-
-  Maintained and continued development of a Python Zope 2 website (http://mlst.ucc.ie) for MLST data submission. Assisted registered users (~1000) with queries relating to data submission and curation.
-
-  Administered database servers and managed databases. Setup master-slave replication of a Postgres database for development and backup purposes.
-
-  System administration of 5 servers (4 Linux, 1 Windows), 20 Windows workstations and a 3 Terabyte Fibre-channel connected SAN. 
-
-  Setup integrated authentication of the entire network of Linux, Windows server and clients.
-
-  Novell network administration - LDAP, iFolder file synchronization and cluster services.
-
-  2005 - 2007: Faculty in Bioinformatics
-  ......................................
-  Jain Institute of Vocational and Advanced Studies, Bangalore, India.
-
-  Setup a network of 10 Linux computers, an e-learning coursework using Moodle and conducted tests using a PHP based test software.
-
-  Developed a PHP based software for simple Lineweaver-Burke plots (`biograph <http://sourceforge.net/projects/biograph/>`_).
-
-  2004 - 2005: Private Instructor
-  ...............................
-  National Biotechnology Entrance Examination, Coimbatore, India.
-
-  2002 - 2004: Lecturer in Biotechnology
-  ......................................
-  PSG College of Arts and Science, Coimbatore, India.
-
-
-  Publications
-  ------------
-  #. O’Farrell B, Haase JK, Velayudhan V, Murphy RA, Achtman M (2012) `Transforming Microbial Genotyping: A Robotic Pipeline for Genotyping Bacterial Strains <http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0048022>`_. PLoS ONE 7(10): e48022.
-  #. eBook - `DIY: Host Your Statically Generated Blog In The Cloud <https://leanpub.com/diyhostblog/>`_, *a step-by-step guide*
-
-  Conferences
-  -----------
-  * PyCon Ireland 2011: Delivered a tutorial on `beginning GUI design using PyQt <http://2vkvn.com/blog/2011/10/10/beginning-pyqt-tutorial-pycon-ireland-2011-slides-and-code/>`_.
-  * PyCon Ireland 2010 - participant.
-
-  Education
-  ---------
-  1999 - 2001: Master of Science, Biotechnology
-  .............................................
-  Madurai Kamaraj University, India.
-
-
-  References on request
-  ---------------------
-
-  .. links
-  .. _scienceformat: http://scienceformat.com
