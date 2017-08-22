@@ -40,6 +40,10 @@ Additional courses:
 * Probabilistic Graphical Models (Coursera)
 * Artificial Intelligence (Udacity)
 
+.. raw:: pdf
+
+   PageBreak oneColumn
+
 Work Experience
 ---------------
 
@@ -103,63 +107,33 @@ Relevant echnology experience in: C#, ASP.NET, NHibernate, Microsoft SQL Server.
 
 Developed web-based information system. Supported and maintained legacy code. Developed algorithms for data processing.
 
-----
+.. raw:: pdf
+
+   PageBreak oneColumn
 
 Experience
 ----------
 
-* Good knowledge of C, C++, C#, Java, JavaScript, SQL, Common Lisp, Octave, Bash. Also familiar with other languages (python, assembly, R, rust, go).
-* Familiar with several technology stacks:
-  
-  * Microsoft .NET: Winforms, ADO.NET, ASP.NET, ASP.NET MVC, NHibernate, Castle.Windsor, .NET Core, Entity Framework Core
-  * Java: JAX-RS, JDBC
-  * Client-side web: HTML, CSS, JavaScript, ExtJS
-  * Linux: libc, pthreads, gtk, make, autotools, gdb/lldb, strace/sysdig/perf
-  
-* Knowledge of basic data structures and algorithms.
-
-* Have experience with multithreaded (pthreads, Win32 threads) and network programming (sockets, epoll).
-
+* Good knowledge of C, C++, C#, Java, JavaScript, SQL, Common Lisp, Octave, Bash.
+* Familiarity with: python, assembly, R, rust, go.
+* Microsoft .NET: Winforms, ADO.NET, ASP.NET, ASP.NET MVC, NHibernate, Castle.Windsor, .NET Core, Entity Framework Core, ASP.NET Core
+* Java: JAX-RS, JDBC
+* Client-side web: HTML, CSS, JavaScript, ExtJS
+* Linux: libc, pthreads, gtk, make, autotools, gdb/lldb, strace/sysdig/perf
+* Knowledge of data structures and algorithms
+* Multithreading (pthreads, Win32 threads, java threads, .NET threads) and async programming
+* Nnetwork programming (sockets, epoll, TCP)
 * Familiar with system and low-level programming: compilers, garbage collectors, databases.
-
-* Familiar with parsing (mostly with ANTLR and manually-written LL).
-
-* Familiar with software testing. Used unit testing (nunit, junit, testng), load testing (jmeter, grinder); randomized stress testing of algorithms.
-
-* Administered Linux servers. Tools: ssh, top/htop/strace etc., salt stack, collectd, jenkins.
-
+* Familiar with parsing (ANTLR, PEG, hand-coded LL parsers).
+* Familiar with software testing. Unit testing (NUnit/xUnit, JUnit/TestNG), load testing (JMeter); fuzzy testing of algorithms.
+* Linux servers administration. Tools: ssh, top/htop/strace etc., salt stack, collectd, jenkins.
 * Development tools: git, svn, mercurial, make, autotools, salt, ssh, bash, antlr, swig.
-
 * Databases: PostgreSQL, Oracle, SQLite, Microsoft SQL Server, MongoDB, Elasticsearch.
-
 * Some familiarity with machine learning. Tools: octave, R, jupyter, pandas, scikit-learn.
 
-..
-  **Низкоуровневое и системное программирование**
+.. raw:: pdf
 
-  **Прикладное программирование**
-
-  **Машинное обучение**
-
-  **Языки и инструменты**
-
-  **Разное**
-
-  Языки: C, C++, C#, Python, Common Lisp, Octave, Java, JavaScript, Bash, SQL (Oracle, PostgreSQL), asm
-
-  threads, sockets, compilers
-
-  databases (SQL, MongoDB, Elasticsearch)
-
-  администрирование (collectd, jenkins, salt, ssh & linux)
-
-  git/svn/mercurial
-
-  opengl
-
-  проекты: sbcl, dvkgittfs, lectures, cl-gtk2
-
-----
+   PageBreak oneColumn
 
 Hobby projects
 --------------
