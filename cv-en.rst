@@ -12,7 +12,7 @@ General Information
 
 Dmitry Kalyanov (Дмитрий Кальянов)
 
-**Location**: Russia, Kazan; not willing to relocate
+**Location**: Russia, Kazan
 
 **Email**: Kalyanov.Dmitry@gmail.com
 
@@ -20,14 +20,11 @@ Dmitry Kalyanov (Дмитрий Кальянов)
 
 **Phone**: +7 (906) 1 156 916
 
-**XMPP**: dmitry_vk@jabber.ru
+**Telegram**: @dmitry_vk
 
 
 Education
 ---------
-
-2009-2010 (not finished)
-  Kazan State University, post-graduate study in Computer Science.
 
 2004-2009
   Kazan State University, faculty of Computational Mathematics and Cybernetics.
@@ -50,60 +47,56 @@ Work Experience
 2010-2011, 2012 - present; BARS Group, software developer
 .........................................................
 
-Relevant echnology experience in:
-.NET (.NET Framework, .NET Core, Mono, async, ASP.NET MVC, ASP.NET Core, WCF, NHibernate, Entity Framework Core),
-JavaScript (ExtJS),
-Java, 
-C,
-Parsing (ANTLR, peg.js),
-PostgreSQL,
-Oracle,
-nginx,
-TeamCity,
-Jenkins.
+BARS Group is an enterprise software company with many large customers and many diverse projects.
+Tech stack is mostly .NET and JavaScript; some projects are written in Java, C++.
 
 Responsibilities include:
 
-* Application architecture
 * Web application development (backend and frontend)
-* Internal tools and application platforms development
+* Application architecture
+* Development of application development platforms
+* Development of internal tools
 
 Some notable projects:
 
-* Oracle PL/SQL code translator into PostgreSQL PL/pgSQL language
-* Custom PostgreSQL extension
-* Porting large application from .Net/Windows to Mono/Linux
-* Automated migration from TFS Version Control to git (with custom-made tools)
+* Translator of procedural SQL code from Oracle dialect into PostgreSQL dialect
+* Porting large legacy application from Windows to Mono/Linux and modernizing it
+* Native code profiling tool
+* Implementation of several expression languages
+* Custom javascript bundler
 
 2011-2012; Music Services, software developer
 .............................................
 
-Relevant echnology experience in: Java, JavaScript, C, nginx, Jetty, JAX-RS, Android, Node.js, ExtJS, MongoDB, Elasticsearch, Jenkins, salt stack.
+Music Services was a product company with one main product: streaming music platform.
+Tech stack was diverse: Java, C, JavaScript, Android, iOS.
 
 Responsibilities included:
 
-* Backend development
-* Development of browser-based front end (JavaScript, Java applets)
+* Application development (backend, web frontend)
 * Systems administration
 
 Some notable projects:
 
 * Custom nginx modules
-* Custom data replication protocol
-* Patches to MHDDFS (FUSE filesystem written in C)
+* Distributed replicated storage system
 
 2007-2009; Infomed, software developer
 ......................................
 
-Relevant echnology experience in: C#, Winforms, WPF, NHibernate, PostgreSQL, OpenGL.
+Infomed was a product company that produced several products related to medical imaging.
+Tech stack was mostly .NET on desktop, OpenGL, C++.
 
-Developed client-server image storage and processing system. Developed libraries for image analysis and DICOM-based
-interaction with 3rd-party systems. Developed prototype of automated medical image segmentation system.
+Some notable projects:
+
+* Libraries for DICOM protocol
+* Prototype of automated medical image segmentation
 
 2006-2007; RST, software developer
 ..................................
 
-Relevant echnology experience in: C#, ASP.NET, NHibernate, Microsoft SQL Server.
+RST (acronym for Rabbit Science Technologies) was a product company related to rabbit farming.
+Tech stack: .NET
 
 Developed web-based information system. Supported and maintained legacy code. Developed algorithms for data processing.
 
@@ -114,22 +107,25 @@ Developed web-based information system. Supported and maintained legacy code. De
 Experience
 ----------
 
-* Good knowledge of C, C++, C#, Java, JavaScript, SQL, Common Lisp, Octave, Bash.
-* Familiarity with: python, assembly, R, rust, go.
-* Microsoft .NET: Winforms, ADO.NET, ASP.NET, ASP.NET MVC, NHibernate, Castle.Windsor, .NET Core, Entity Framework Core, ASP.NET Core
-* Java: JAX-RS, JDBC
-* Client-side web: HTML, CSS, JavaScript, ExtJS
-* Linux: libc, pthreads, gtk, make, autotools, gdb/lldb, strace/sysdig/perf
+* Good knowledge of C, C++, C#, Java, JavaScript, SQL, Common Lisp, Bash.
+* Familiarity with: Python, Assembly, R, Rust, Go, Octave.
+* Microsoft .NET: .NET Core, Winforms, WPF, ASP.NET (from classic ASP.NET to ASP.NET Core), ADO.NET, NHibernate, Castle.Windsor, Entity Framework (Classic and Core)
+* Java: JAX-RS, JDBC, Hibernate
+* Web: HTML, CSS, JavaScript, Webpack, ExtJS
+* GUI: Gtk+, .NET Winfoms
+* Low-level Linux and related tools: libc, pthreads, gdb/lldb, strace, sysdig, perf
 * Knowledge of data structures and algorithms
 * Multithreading (pthreads, Win32 threads, java threads, .NET threads) and async programming
-* Network programming (sockets, epoll, TCP)
+* Network programming (sockets, epoll, TCP/IP)
 * Familiar with system and low-level programming: compilers, garbage collectors, databases.
-* Familiar with parsing (ANTLR, PEG, hand-coded LL parsers).
-* Familiar with software testing. Unit testing (NUnit/xUnit, JUnit/TestNG), load testing (JMeter); fuzzy testing of algorithms.
-* Linux servers administration. Tools: ssh, top/htop/strace etc., salt stack, collectd, jenkins.
-* Development tools: git, svn, mercurial, make, autotools, salt, ssh, bash, antlr, swig.
+* Familiar with parsing (ANTLR, PEG, hand-coded parsers).
+* Familiar with software testing. Unit testing (NUnit/xUnit, JUnit/TestNG), load testing (JMeter), automated browser-based testing (Selenium);
+  randomized and fuzz testing.
+* Basic Linux servers administration. SSH, strace, top, ps, ip, systemd, bash.
+* Development tools: Git, SVN, Mercurial, Make, Autotools, Meson, SWIG, Rust bindgen, Jenkins, TeamCity.
 * Databases: PostgreSQL, Oracle, SQLite, Microsoft SQL Server, MongoDB, Elasticsearch.
-* Some familiarity with machine learning. Tools: octave, R, jupyter, pandas, scikit-learn.
+* Some familiarity with (classic) machine learning. Tools: octave, R, jupyter, pandas, scikit-learn.
+* Contributions to open-source projects and maintenance of some own open source projects
 
 .. raw:: pdf
 
@@ -155,16 +151,6 @@ TFS to GIT Migration tool
   Common Lisp bindings for Gtk GUI toolkit. Integrated different object systems (GObject object system and Common Lisp Object System),
   integrated memory management and thread synchronization. Technologies used: SBCL, Gtk+.
   
-Fact extraction system for information retrieval
-  Developed prototype system for extracting information from texts as a research project.
-  Implemented data storage, text processing and machine learning-based information extraction algorithms. Analyzed and tuned
-  extraction algorithms.
-  Technologies used: Common Lisp (SBCL), C++, SQLite.
-
-Porting of AOT (automatic text processing library) to Linux
-  Wrote new build system, rewrote platform-dependent parts of code. Wrote Common Lisp and Python bindings for AOT.
-  Technologies used: autotools, make, C++, SWIG.
-
 `Text editor for PDA <http://lectures.sourceforge.net/>`_
   Developed text editor for PalmOS-based PDAs. Editor featured text formatting and insertion of images and formulas (with LaTeX notation).
   Technologies used: C++, FreeType.
