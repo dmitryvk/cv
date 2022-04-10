@@ -10,15 +10,15 @@
 Контактная информация
 ---------------------
 
-Кальянов Дмитрий
+Дмитрий Кальянов
 
-**Географическое положение**: Россия, город Казань; командировки нежелательны
+**Географическое положение**: Россия, город Казань
 
 **Email**: Kalyanov.Dmitry@gmail.com
 
 **Github**: https://github.com/dmitryvk/
 
-**Телефон**: +7 (906) 1 156 916
+**Телефон**: +7 (906) 115 69 16
 
 **Telegram**: @dmitry_vk
 
@@ -26,11 +26,11 @@
 Образование
 -----------
 
-2009-2010 (прервано)
-  Казанский государственный университет, аспирантура по специальности "математическое и программное обеспечение вычислительных машин, комплексов и компьютерных сетей".
+2009-2010 (не завершено)
+  Казанский Государственный Университет, аспирантура по специальности "математическое и программное обеспечение вычислительных машин, комплексов и компьютерных сетей".
 
 2004-2009
-  Казанский государственный университет, факультет вычислительной математики и кибернетики. Диплом с отличием. Участие в олимпиадах по программированию и математике.
+  Казанский Государственный Университет, факультет вычислительной математики и кибернетики. Диплом с отличием.
 
 А также различные курсы:
 
@@ -43,189 +43,158 @@
 Опыт работы
 -----------
 
-2010-2011, 2012 - по настоящее время, АО Барс Груп, программист
-...............................................................
+2010-2011, 2012 - по настоящее время, АО Барс Груп, разработчик, архитектор
+........................................................................... 
 
-Используемые технологии: C#, C++, JavaScript, Java, SQL; .NET, ASP.NET MVC, ASP.NET Core; Entity Framework, NHibernate, WCF; ExtJS, webpack; OpenSSL, PostgreSQL, Oracle, ANTLR, PEG, SAML.
+Используемые технологии: C#, C++, JavaScript, Java, Rust, SQL; .NET, ASP.NET MVC, ASP.NET Core; Entity Framework, NHibernate, WCF;
+ExtJS, NPM, Webpack; OpenSSL, PostgreSQL, Oracle, ANTLR, PEG, SAML, OIDC; Docker, Docker Compose.
 
-Разрабатывал бизнес-приложения, учетные системы, аналитические системы, внутренние платформы, библиотеки и инструменты разработки.
+Разрабатывал учетные и аналитические системы, внутренние платформы для приложений, библиотеки и инструменты разработки.
 
-Из интересного: Разработал систему автоматической миграции процедурного кода Oracle PL/SQL в код PostgreSQL pl/pgSQL.
-
-2011-2012, ООО Мьюзик Сервисис, программист
+2011-2012, ООО Мьюзик Сервисис, разработчик
 ...........................................
 
 Используемые технологии: Java, JavaScript, C, nginx, Jetty, JAX-RS, Android, Node.js, ExtJS, MongoDB, Elasticsearch, Jenkins, salt stack.
 
 Разрабатывал распределенное хранилище данных, backend-сервисы для веб-приложения и мобильных приложений.
-Разрабатывал веб-приложение, мобильное  приложение (android). Поддерживал и администрировал серверы.
+Разрабатывал веб-приложение, мобильное  приложение (android). Поддерживал инфраструктуру, администрировал сервера.
 
-2007-2009, ООО Инфомед, программист
+2007-2009, ООО Инфомед, разработчик
 ...................................
 
 Используемые технологии: C#, Winforms, WPF, NHibernate, PostgreSQL, OpenGL.
 
-Разрабатывал клиент-серверную систему хранения и обработки изображений. Разрабатывал библиотеки для обработки изображений, для реализации взаимодействия с сторонними системами по протоколу DICOM. Разрабатывал автоматическую систему сегментации медицинских изображений.
+Разрабатывал клиент-серверную систему хранения и обработки изображений.
+Разрабатывал библиотеки для обработки изображений, для реализации взаимодействия с сторонними системами по протоколу DICOM.
+Разрабатывал автоматическую систему сегментации медицинских изображений.
 
-2006-2007, ООО РСТ, программист
+2006-2007, ООО РСТ, разработчик
 ...............................
 
 Используемые технологии: C#, ASP.NET, NHibernate, Microsoft SQL Server.
 
-Разрабатывал веб-приложение для учетной системы. Поддерживал и исправлял унаследованный код. Разрабатывал алгоритмы и системы правил для автоматизации процессов.
-
-----
+Разрабатывал веб-приложение для учетной системы. Поддерживал и исправлял унаследованный код.
+Разрабатывал алгоритмы и системы правил для автоматизации процессов.
 
 Скиллы
 ------
 
-* Хорошо владею рядом мейнстримных языков программирования (C, C++, C#, Java, JavaScript, SQL, Bash), и некоторыми нишевыми (Common Lisp, Octave).
-  Помимо этих языков, знаком и использовал многие другие языки (python, assembly, php, R, rust, go и др.)
-* Различные стеки разработки приложений:
+* Стэки разработки приложений:
   
-  * Microsoft .NET: Winforms, ADO.NET, ASP.NET, ASP.NET MVC, ASP.NET Core, NHibernate, Entity Framework
-  * Java: JAX-RS, JDBC, Hibernate
-  * Веб-программирование: HTML, CSS, JavaScript, Webpack
-  
-* Знаком с различными технологиями хранения данных: PostgreSQL, Oracle, SQLite, MongoDB, Elasticsearch
-
-* Знаю структуры данных и алгоритмы
-
-* Опыт многопоточного (pthreads, Windows threads) и сетевого программирования (сокеты)
-
-* Знаком с системным и низкоуровневым программированием: компиляторы, сборщики мусора, базы данных, веб-серверы
-
-* Знаком с синтаксическим анализом. Инструменты: ANTLR, PEG, рекурсивный разбор.
-
-* Знаком с тестированием программ. Использовал модульное тестирование программ (nunit, xunit.net, junit, testng),
-  нагрузочное тестирование (jmeter, grinder) и рандомизированное стресс-тестирование алгоритмов.
-
-* Умею администрировать linux-серверы. Инструменты: ssh, top/htop/strace/perf и т.п., salt stack, collectd, jenkins, teamcity
-
-* Инструменты разработки: git, svn, mercurial, make, autotools, ssh, bash
-
-* Знаком с классическим машинным обучением (machine learning). Инструменты: octave, R, pandas, scikit-learn.
-
-..
-  **Низкоуровневое и системное программирование**
-
-  **Прикладное программирование**
-
-  **Машинное обучение**
-
-  **Языки и инструменты**
-
-  **Разное**
-
-  Языки: C, C++, C#, Python, Common Lisp, Octave, Java, JavaScript, Bash, SQL (Oracle, PostgreSQL), asm
-
-  threads, sockets, compilers
-
-  databases (SQL, MongoDB, Elasticsearch)
-
-  администрирование (collectd, jenkins, salt, ssh & linux)
-
-  git/svn/mercurial
-
-  opengl
-
-  проекты: sbcl, dvkgittfs, lectures, cl-gtk2
+  * Microsoft .NET: ASP.NET Core, NHibernate, Entity Framework, а также WinForms, ADO.NET, ASP.NET, ASP.NET MVC
+  * Java: JAX-RS, JDBC, Hibernate, немного Spring Boot и JOOQ
+  * Веб-фронтенд: JavaScript, Webpack, HTML, CSS
+  * Нативные приложения: C, C++, Gtk+
+* Хорошо владею несколькими мейнстримными языками программирования (C, C++, C#, Java, JavaScript, SQL, Bash), и некоторыми нишевыми (Rust, Common Lisp).
+  Также использовал некоторые другие языки (Python, Assembly, PHP, R, Go, Octave и др.)
+* Технологии хранения данных: PostgreSQL, Oracle, SQLite, MongoDB, Elasticsearch
+* Классические структуры данных и алгоритмы
+* Параллельное/многопоточное/многонитевое программирование (threads, atomics)
+* Сетевое программирования (сокеты, протоколы)
+* Системное и низкоуровневое программирование (компиляторы, сборщики мусора, базы данных, веб-серверы)
+* Интеграция кода на разных языках программирования (FFI, bindings, SWIG, bindgen)
+* Синтаксический анализ (ANTLR, PEG, рукописные парсеры, LL, LR, Pratt).
+* Криптография (X.509, ASN.1, XMLDSIG, CMS, openssl)
+* Тестирование кода: модульное тестирование (nunit, xunit.net, junit, testng), тестирование на основе свойств и инвариантов
+  (property-based checking), нагрузочное тестирование (jmeter).
+* Профилирование (perf/flamegraph, dotTrace, VisualVM)
+* Отладка программ различными средствами
+* Администрирование Linux-серверов (ssh, jenkins, teamcity, docker, systemd, top/htop/strace/perf и т.п.)
+* Различные системы контроля версий (svn, mercurial, git)
+* Различные инструменты разработки (make, autotools, ssh, meson, valgrind, graphviz и т.п.)
+* Некоторый опыт в машинном обучении (octave, R, pandas, scikit-learn)
+* Документирование ПО (sphinx)
+* Декомпозиция задач
 
 ----
 
-..
-  Другие проекты, не связанные с работой
-  --------------------------------------
+Некоторые проекты и примеры вклада в Open Source
+------------------------------------------------
 
-  TFS-GIT Migration tool
-    Разработал инструмент для миграции истории контроля версий из репозитория TFS в GIT. Используемые технологии: C#, Git, libgit2.
-    
-  Wacom Output Mapping Watcher
-    Утилита для Linux для автоматической настройки привязки wacom-планшетов к экранам. Используемые технологии: rust, xcb.
+* http://lectures.sourceforge.net/
 
-  SBCL Win32 Threads
-    Реализовал поддержку многопоточности в компиляторе SBCL для Windows. Реализация включала в себя использование низкоуровневых особенностей Windows API, реализацию примитивов синхронизации (мьютексы, переменные ожидания) и примитивов многопоточности (создание потоков, thread-local storage), разработку механизмов интеграции сборщика мусора с многопоточностью, модификацию генератора кода в компиляторе, а также отладку и тестирование. Используемые технологии: cygwin, C, gcc, gdb, SBCL.
+  Текстовый редактор для КПК на платформе Palm OS. Поддержка форматирования текста, графических вставок и формул в нотации LaTeX. Написан на C++.
 
-  cl-gtk2
-    Биндинг (обертка) для библиотек GObject, Gtk для их использования в Common Lisp. Интеграция различных объектных систем, механизмов автоматического управления памятью и синхронизации в многопоточной среде. Используемые технологии: SBCL, gtk+.
-    
-  Система извлечения фактов из текстов
-    Для дипломной работы реализовал прототип системы автоматического извлечения информации из текстов (Information Extraction). Реализовал хранение данных, алгоритмы обработки текстов и извлечения информации на основе машинного обучения, проводил анализ, подстройку и подбор признаков для алгоритмов машинного обучения.
+* http://lisper.ru/articles/sbcl-add-vop
 
-  Портирование библиотек автоматической обработки текстов (aot.ru) на linux
-    Изменена система сборки, переписана платформенно-зависимая функциональность. Используемые технологии: autotools, make, C++.
-    
-  Текстовый редактор lectures
-    Написал текстовый редактор для КПК на платформе Palm OS. Редактор поддерживал форматирование текста и ввод и отображение формул в нотации LaTeX.
+  Статья про генерацию машинного кода в компиляторе Common Lisp
 
-  Портирование различных библиотек на Palm OS и Windows CE
-    Портировал библиотеки freetype, sqlite на Palm OS (модифицирование системы сборки и платформенно-зависимых компонентов). Портировал библиотеку djvulibre на Windows CE.
+* http://www.sbcl.org/all-news.html#1.1.1
   
-..
-  Experience
-  ----------
-  Current: Developer, scienceformat
-  .................................
-  `scienceformat`_ is a manuscript preparation and bibliography management service for Science. 
+  https://github.com/sbcl/sbcl/commit/7aef55b130d95c384b63422807f1848faa9aba5a
 
-  Mar - May 2014: Web developer, Teamwork.com
-  ...........................................
-  Implemented the first version of a feature for `importing tasks and task lists from Microsoft Excel <http://www.teamwork.com/blog/excel-import-option-tasks/>`_ files.
+  Поддержка многонитевости (многопоточности) в компиляторе Common Lisp для Windows. Написано на C и Common Lisp
 
-  2007 - 2012: Research Program Manager
-  .....................................
-  Mark Achtman Group, Environmental Research Institute, UCC, Cork, Ireland.
+* https://cl-gtk2.common-lisp.dev/
 
-  Developed an API in Python for allowing public access to data. Designed administration interfaces in HTML for updating tables and adding/removing columns.
+  Библиотека для построения GUI для Common Lisp
 
-  Developed graphical user interfaces in Python and Qt for visualizing and managing data in LIMS systems and `BioNumerics <http://www.applied-maths.com/bionumerics>`_.
+* https://cl-sqlite.common-lisp.dev/
 
-  Maintained and continued development of a Python Zope 2 website (http://mlst.ucc.ie) for MLST data submission. Assisted registered users (~1000) with queries relating to data submission and curation.
+  Библиотека для работы с БД SQLite для Common Lisp
 
-  Administered database servers and managed databases. Setup master-slave replication of a Postgres database for development and backup purposes.
+* https://github.com/barsgroup/plsql-postgresql-converter
 
-  System administration of 5 servers (4 Linux, 1 Windows), 20 Windows workstations and a 3 Terabyte Fibre-channel connected SAN. 
+  Автоматический конвертер из диалекта SQL из PL/SQL Oracle в диалект PostgreSQL и PL/pgSQL. Написан на Java с применением ANTLRv3
 
-  Setup integrated authentication of the entire network of Linux, Windows server and clients.
+* https://github.com/dmitryvk/rs-credentials-manager
 
-  Novell network administration - LDAP, iFolder file synchronization and cluster services.
+  Менеджер паролей. Написан на Rust и Gtk3
 
-  2005 - 2007: Faculty in Bioinformatics
-  ......................................
-  Jain Institute of Vocational and Advanced Studies, Bangalore, India.
+* https://github.com/barsgroup/mono-ssp
 
-  Setup a network of 10 Linux computers, an e-learning coursework using Moodle and conducted tests using a PHP based test software.
+  Профилировщик "Wall-clock"-времени. Написан на C++
 
-  Developed a PHP based software for simple Lineweaver-Burke plots (`biograph <http://sourceforge.net/projects/biograph/>`_).
+* Некоторые исправления мелких и крупных багов в разных библиотеках:
 
-  2004 - 2005: Private Instructor
-  ...............................
-  National Biotechnology Entrance Examination, Coimbatore, India.
-
-  2002 - 2004: Lecturer in Biotechnology
-  ......................................
-  PSG College of Arts and Science, Coimbatore, India.
+  * https://bugs.freedesktop.org/show_bug.cgi?id=58746#c8 (C)
+  * https://github.com/JamesNK/Newtonsoft.Json/commit/f3706313ef68d4ce968081d080f07a6d86393e43 (.NET)
+  * https://github.com/Octonica/ClickHouseClient/pull/42 (.net)
+  * https://github.com/zip-rs/zip/pull/286 (Rust)
+  * https://github.com/swig/swig/commit/4b79eb9219bda2aeb6a1eda2d4f7b48aff89d066 (C, Yacc)
+  * https://github.com/rust-lang/rust-bindgen/commit/6c01fa42936d4c5280822983299fa3e7765b17aa (Rust)
+  * https://github.com/mono/xsp/commit/3330ff0790eaa48b0b54174edc0736b9b6006841 (.NET)
+  * https://github.com/mono/mono/pull/12104 (.NET)
+  * https://github.com/mono/mono/pull/13948 (.NET)
+  * https://github.com/gentoo/dotnet/pull/308 (Gentoo Linux)
+  * https://github.com/zmagyar/extjs-loader/pull/2 (JavaScript)
+  * https://github.com/octplane/rust-linenoise/pull/6 (Rust)
 
 
-  Publications
-  ------------
-  #. O’Farrell B, Haase JK, Velayudhan V, Murphy RA, Achtman M (2012) `Transforming Microbial Genotyping: A Robotic Pipeline for Genotyping Bacterial Strains <http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0048022>`_. PLoS ONE 7(10): e48022.
-  #. eBook - `DIY: Host Your Statically Generated Blog In The Cloud <https://leanpub.com/diyhostblog/>`_, *a step-by-step guide*
+----
 
-  Conferences
-  -----------
-  * PyCon Ireland 2011: Delivered a tutorial on `beginning GUI design using PyQt <http://2vkvn.com/blog/2011/10/10/beginning-pyqt-tutorial-pycon-ireland-2011-slides-and-code/>`_.
-  * PyCon Ireland 2010 - participant.
+Обо мне
+-------
 
-  Education
-  ---------
-  1999 - 2001: Master of Science, Biotechnology
-  .............................................
-  Madurai Kamaraj University, India.
+Занимался программированием с детства - первым языком был QBasic в 7 лет.
+В школе научился программировать на Turbo Pascal, Delphi, C и С++, изучал алгоритмы и участвовал в олимпиадах по программированию (и другим дисциплинам).
+Программировал свои проекты, в том числе для распространенных в то время КПК Palm.
 
+В университете углубил знания C++ и алгоритмов, участвовал в олимпиадах по программированию, глубоко изучил Common Lisp (SICP, CLOS и др. книги),
+теорию (парсеры, компиляторы, и др.). Перешел на использование Linux. Начал делать небольшие вклады в open source (небольшие доработки в генераторе FFI-биндингов SWIG,
+доработки в рантайме компилятора Common Lisp, несколько open source библиотек). Изучал машинное обучение.
 
-  References on request
-  ---------------------
+Одновременно с университетом начал работать в коммерческих компаниях (разрабатывал учетные системы, в основном на C#, а также системы обработки медицинских изображений),
+получил опыт командной работы (в небольших самостоятельных командах, когда всем приходилось делать все) с сопутствующими инструментами и методологиями
+(SVN, а затем Git; Trac; Jenkins).
+Окончил университет с "красным" дипломом и поступил в аспирантуру, чтобы заниматься машинным обучением и компьютерной лингвистикой.
 
-  .. links
-  .. _scienceformat: http://scienceformat.com
+По личным и финансовым причинам пришлось оставить аспирантуру и заняться только разработкой.
+Поучаствовал в стартапе, занимающимся стримингом музыки - небольшой командой делали распределенную платформу распространения аудиоконтента с несколькими фронтендами
+(веб, мобильные приложения).
+Существенную часть времени работал в компании Барс Груп, занимался разработкой бизнес-приложений (web-based учетные системы и BI-платформы) и фреймворков для них,
+а также вспомогательными инструментами (в основном на C#, PostgreSQL, JavaScript с небольшими примесями Java, C++, Rust и других технологий).
+Занимался немалым количеством legacy-кода.
+По рабочим необходимостям отправлял патчи в некоторые open source-проекты (много исправлений было в библиотеках для .NET и в Mono - рантайм для запуска .NET под Linux).
+Спектр технологий с течением времени менялся - если вначале это был практически полностью Microsoft-стэк (Windows Server, .NET Framework, TFS), то в настоящее время он более современный и разнообразный: Linux (CentOS, Ubuntu), Docker, .NET Core, PostgreSQL, Java, PHP. В приложениях писал как
+бизнес-логику и фронтенд, так и более сложные задачи - криптография, парсеры и инструменты для различных языков, кодогенерация, свои системы сборки, ORM,
+библиотеки для работы с различными файловыми форматами, профилировщики. Для миграции одного из проектов с Oracle на PostgreSQL написал конвертер запросов и хранимых процедур
+из Oracle-диалекта в PostgreSQL-диалект.
+
+Одновременно с этим изучал более интересные мне области - распределенные системы, компиляторы, базы данных, параллельные вычисления. Занимался в ШАД Яндекса
+(из-за нехватки свободного времени пришлось отказаться от завершения).
+Следил за изменениями в C++ - C++0x, 11, 14, 17. Начинал писать на Go, Zig и на Rust. Есть несколько своих проектов на Rust, сделанных
+до выхода первого официального релиза Rust.
+
+В настоящее время ищу возможности развиваться в разработке в области системного и низкоуровневого программирования, высоконагруженных, параллельных и распределенных систем,
+машинном обучении, мобильных приложениях и веб-фронтенде.
